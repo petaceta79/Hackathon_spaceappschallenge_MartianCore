@@ -1,6 +1,6 @@
 # Hackathon_spaceappschallenge_MartianCore
 
-Un asistente inteligente con **backend en Python/Flask** y **frontend en React con chatbot**, que simula la gestión de datos críticos para la supervivencia en un hábitat marciano.  
+Un asistente inteligente con **backend en Python/Flask** y **frontend en React con chatbot**, que simula la gestión de datos críticos para la supervivencia en un hábitat marciano. En los enlaces correspondientes hay información más detallada.
 
 🔹 **Backend**: [Hackathon_spaceappschallenge_MartianCore-BackEnd-](https://github.com/petaceta79/Hackathon_spaceappschallenge_MartianCore-BackEnd-) (https://github.com/petaceta79/Hackathon_spaceappschallenge_MartianCore-BackEnd-)
 
