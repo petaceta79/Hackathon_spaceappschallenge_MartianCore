@@ -30,4 +30,4 @@ Overall, the project provides a simple and efficient interface to manage complex
 This would be extremely valuable when the time comes to establish the first colonies on Mars with non-expert personnel, as it would greatly simplify management tasks and reduce the level of specialized knowledge required to participate in such missions.
 
 ## Project Demonstration
-[Video 30s]([https://github.com/sebasgit27/hackaton_nasa/tree/main](https://drive.google.com/file/d/1DzbkyyDUAbPS9sZOVMCM6krJodRw28UD/view?usp=sharing))
+[Video 30s](https://drive.google.com/file/d/1DzbkyyDUAbPS9sZOVMCM6krJodRw28UD/view?usp=sharing)
